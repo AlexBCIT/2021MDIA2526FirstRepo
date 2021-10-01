@@ -2,3 +2,9 @@ Grocery List
 bread
 butter
 onions
+
+
+Supplies
+pencil
+tape
+glue
